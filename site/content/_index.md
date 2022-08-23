@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Home Works Warantiy"
+subtitle: Support sustainable home maintenance while enjoying a days work
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
